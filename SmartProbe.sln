@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartProbe", "SmartProbe\SmartProbe.csproj", "{1D3BD5E9-ACF6-4322-986F-07444AC6CA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3BD5E9-ACF6-4322-986F-07444AC6CA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3BD5E9-ACF6-4322-986F-07444AC6CA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3BD5E9-ACF6-4322-986F-07444AC6CA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3BD5E9-ACF6-4322-986F-07444AC6CA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A108BF5A-F1EC-473D-97C4-68619EE316F2}
+	EndGlobalSection
+EndGlobal
